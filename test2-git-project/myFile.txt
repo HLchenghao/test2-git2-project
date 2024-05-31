@@ -1,1 +1,2 @@
-myfile，我要发布到githup中
+myfile，我要发布到githup中,
+我已经发布到githup中了，现在直接在idea中进行修改
